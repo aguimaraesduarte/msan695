@@ -1,0 +1,3 @@
+1. Connect to ec2-34-209-130-168.us-west-2.compute.amazonaws.com:5000 on your browser to get the client's IP address and user agent.
+2. Connect to ec2-34-209-130-168.us-west-2.compute.amazonaws.com:5000/set_cookie to set a 'user' cookie with a default value ('default'). To specifiy a value, you can pass a ?user=FirstnameLastname to the URL (ie., ec2-34-209-130-168.us-west-2.compute.amazonaws.com:5000/set_cookie?AndreDuarte).
+3. Connect to ec2-34-209-130-168.us-west-2.compute.amazonaws.com:5000/get_cookie to view the latest cookie that was set.
