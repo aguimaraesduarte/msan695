@@ -1,0 +1,4 @@
+Web-app URL: http://ec2-52-43-67-18.us-west-2.compute.amazonaws.com/
+Members: Zainab Danish, Andre Duarte, Spencer Smith, Derek Welborn
+The Custom Report pdf is very bland. Since our application is extremely simple, there was not much we could track in custom-defined dimensions and metrics.
+The Document pdf includes each member's customizations.
